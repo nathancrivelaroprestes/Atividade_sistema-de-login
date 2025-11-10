@@ -1,1 +1,12 @@
-Sistema de Login - Versão 1.0
+SISTEMA DE LOGIN
+----------------
+Descrição: Este arquivo representa o início do desenvolvimento do sistema de login.
+
+Requisitos:
+- Solicitar nome de usuário
+- Solicitar senha
+- Validar credenciais
+- Exibir mensagem de sucesso ou erro
+
+Status: Em desenvolvimento
+
